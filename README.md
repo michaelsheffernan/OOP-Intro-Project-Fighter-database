@@ -5,3 +5,5 @@ Needs work:
 Program subclass correctly so that "name" is not needed to be passed as an argument twice
 Add user input options and while loops to create a usable system, especially for the record counting
 Better management of variables like training_hours and record
+
+needs doing ASAP!!
